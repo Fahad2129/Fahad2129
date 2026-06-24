@@ -10,8 +10,6 @@ CS sophomore at IBA Karachi building things at the intersection of AI, systems, 
 
 **Institute of Business Administration (IBA), Karachi** — BS Computer Science *(Expected June 2028)*
 
-Relevant Coursework: Data Structures & Algorithms · OOP · Computer Architecture · Artificial Intelligence · Computer Networks
-
 ---
 
 ## 🛠️ Tech Skills
@@ -33,16 +31,6 @@ Relevant Coursework: Data Structures & Algorithms · OOP · Computer Architectur
 ![ML](https://img.shields.io/badge/Genetic_Algorithms-informational?style=flat)
 ![ML](https://img.shields.io/badge/NLP_&_GloVe-informational?style=flat)
 
-**Tools & Platforms**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-Networking-blue?style=flat)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat)
-
----
 
 ## 🚀 Projects
 
