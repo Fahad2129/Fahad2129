@@ -2,7 +2,7 @@
 
 CS sophomore at IBA Karachi building things at the intersection of AI, systems, and software. I enjoy turning complex problems into clean, working solutions — from ML pipelines to low-level assembly.
 
-📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 fahadazfar05@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-azfar)
+📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 fahadazfar05@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-azfar-77a307328/)
 
 ---
 
