@@ -47,8 +47,8 @@ CS sophomore at IBA Karachi building things at the intersection of AI, systems, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahad2129&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad2129&layout=compact&theme=dark&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahad2129&show_icons=true&theme=dark&hide_border=true&hide=stars,prs,issues,contribs&count_private=true" height="165"/>
 </p>
 
 ---
